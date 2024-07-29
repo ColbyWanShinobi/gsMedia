@@ -5,6 +5,7 @@
 ## Version: 1.0
 ## X-Category: Interface Enhancements
 
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
 gsMedia.lua
-Libs\LibStub\LibStub.lua
-Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua

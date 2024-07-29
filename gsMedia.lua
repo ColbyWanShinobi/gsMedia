@@ -8,6 +8,9 @@ repo: https://github.com/ColbyWanShinobi/gsMedia
 
 print("gsMedia by gameshaman.com - Addon Loaded");
 
+-- Ensure LibStub is loaded
+local LibStub = _G.LibStub
+
 -- Ensure LibSharedMedia is available
 local LSM = LibStub:GetLibrary("LibSharedMedia-3.0")
 
