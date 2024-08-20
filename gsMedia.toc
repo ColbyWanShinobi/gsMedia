@@ -1,4 +1,4 @@
-## Interface: 110000
+## Interface: 110002
 ## Title: gsMedia (|cffeda55fgameshaman.com|r)
 ## Notes: Adds custom shared media to the system. That's it.
 ## Author: ColbyWanShinobi
